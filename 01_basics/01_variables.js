@@ -23,3 +23,4 @@ even without using const let var we can still declare a variable but this is not
 no need to put semi colon ; we can put though
 
 */
+ 
